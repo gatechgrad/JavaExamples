@@ -1,3 +1,5 @@
+//2020 - Levi D. Smith
+//levidsmith.com
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
